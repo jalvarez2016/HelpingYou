@@ -1,0 +1,39 @@
+#pic {
+    width: 200px;
+    
+}
+#personality {
+    width: 610px;
+    height: 90px;
+    
+}
+button {
+    margin: 0 auto;
+    
+}
+.heading {
+    font-weight: bold;
+    
+}
+body {
+    font-family: Comic Sans MS;
+    color: yellow;
+}
+html {
+    background-image: url("");
+    
+}
+#color {
+    background-color: black;
+    width: 500px;
+    opacity: 0.8;
+}
+.a {
+    border: double;
+    background-color: #05d5ff;
+    width: 100px;
+    color: #1505ff;
+    border-radius: 5px;
+    padding: 5px;
+}
+h2 {color: black;}

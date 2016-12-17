@@ -1,0 +1,40 @@
+#logo{
+    margin-bottom:200px;
+    background-color:#ffffff;
+    height:200px;
+    width:300px;
+    opacity:0.8;
+}
+#a{
+    color:green;
+    font-size:60px; 
+    top:10px;
+    left:60px;
+    position:absolute; 
+}
+#b{
+    color:green;
+    font-size:60px;
+    top:50px;
+    left:100px;
+    position:absolute; 
+}
+#ar{
+    top:68px;
+    left:180px;
+    position:absolute;
+    height:100;
+}
+#can{
+    color:green;
+    top:140px;
+    left:70px;
+    position:absolute;
+    font-size:20px;
+}
+body{
+    background-image:url("https://www.mariecurie.org.uk/globalassets/media/images/nursing-helper-and-hospice/01-nursing/nursing-hampstead-hospice-03.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+    
+}

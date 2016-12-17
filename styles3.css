@@ -1,0 +1,23 @@
+.button{
+ width:200px;
+ background:#f442bf;
+ padding:10px;
+ border:5px solid #CF1020;
+ border-radius: 25px;
+ font-size:20px;
+ font-family:"Arial Black";
+ text-align:center;
+ margin:50px; 
+    
+} 
+
+#fish{ 
+ background:#0e0f0f;
+ width:400px;
+ padding:10px;
+ color:#f442bf;
+}
+.icon{
+ width:20px;
+ height:20px;
+}
